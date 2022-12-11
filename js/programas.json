@@ -1,0 +1,32 @@
+[
+    {
+        "programa": "perdida",
+        "tiempo": "3 semanas ",
+        "sede": "principal ",
+        "costo": "50",
+        "detalles":"este programa consta de alta exigencia cardio vascular y una sana alimentacion"
+
+    },
+
+    
+    {
+        "programa":"tonificacion",
+        "tiempo": "5 semanas ",
+        "sede" : "principal y sede norte",
+        "costo": "80",
+       "detalles":"en este programa trabajaremos con un peso nivel medio y bastantes repeticiones"
+
+    },
+
+    {
+        "programa":"crecimiento",
+        "tiempo": "10 semanas ",
+        "sede" :"principal y sede norte",
+       "costo": "100",
+       "detalles":"en este programa trabajaremos con un peso nivel alto y pocas repeticiones"
+
+    }
+
+
+]
+

@@ -1,0 +1,169 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(69, 114, 197);
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+
+.containerInicio{
+    height: 750px;
+    width: 600px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+    margin-top: 25px;
+    border: 20px solid;
+
+
+}
+.containerInicio2{
+    height: 1000px;
+    width: 800px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+    margin-top: 25px;
+    border: 20px solid;
+
+
+}
+
+.containerInicio3{
+    height: 1400px;
+    width: 800px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+    margin-top: 25px;
+    border: 20px solid;
+
+
+}
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 150px;
+    width: 400px;
+    background-color: bisque;
+    margin-top: 20px;
+}
+h1{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+h2{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.imagen{
+    width: 400px;
+    height: 700px;
+}
+.imagen2{
+    width: 500px;
+    height: 800px;
+}
+.formulario{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.esconder{
+    display: none;
+}
+.invisible{
+    opacity: 0.0;
+    font-size: 1px;
+}
+
+.visible{
+    opacity: 1;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+
+.imagen3{
+    width: 500px;
+    height: 600px;
+}
+.caja2{
+   text-align: center;
+   padding-top: 15px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 20px;
+} 
+.inscribetete{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+.contenedorInscripcion{
+
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerTitulo{
+    display: flex;
+    justify-content: space-evenly;
+    /* flex-direction: row; */
+}
+
+.fondoBlanco{
+    background-color: white;
+}
+
+.fondoAzul{
+
+    background-color: rgb(69, 114, 197);
+
+}
+.container{
+    width: 80%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    text-align: center;
+    padding-bottom: 25px;
+}
+.containers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.modificar{
+    font-size: 35px;
+}

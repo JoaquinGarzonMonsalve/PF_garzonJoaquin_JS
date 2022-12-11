@@ -1,0 +1,21 @@
+
+
+[
+    {
+        "usuario":"maria", "contraseña":"111"
+    },
+
+    {
+        "usuario":"jose", "contraseña":"222"
+    },
+
+    {
+        "usuario":"jesus", "contraseña":"333"
+    },
+    {
+        "usuario":"sol", "contraseña":"444"
+    }, 
+    {
+        "usuario":"luna", "contraseña":"555"
+    }
+]
